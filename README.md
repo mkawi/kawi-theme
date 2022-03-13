@@ -1,4 +1,4 @@
-# Kawi Theme
+# Kawi Nightshade Theme
 
 <img src="https://github.com/mkawi/kawi-theme/raw/main/images/preview.png" alt="Preview">
 
