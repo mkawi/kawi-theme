@@ -1,0 +1,53 @@
+{
+    "name": "kawi",
+    "displayName": "Kawi Theme",
+    "description": "This is a dark VS Code theme with a Nightshade background and saturated bubblegum colours.",
+    "version": "0.1.0",
+    "publisher": "kawi",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "homepage": "https://github.com/mkawi/kawi-theme/blob/main/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mkawi/kawi-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/mkawi/kawi-theme/issues",
+        "email": "moe@mkawi.dev"
+    },
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Kawi",
+        "Night Theme",
+        "Nightshade"
+    ],
+    "scripts": {
+        "publish": "vsce publish",
+        "build": "node build"
+    },
+    "galleryBanner": {
+        "color": "#111e39",
+        "theme": "dark"
+    },
+    "icon": "./images/icon.png",
+    "contributes": {
+        "themes": [
+        {
+            "label": "Kawi Nightshade - Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/kawi-nightshade-dark.json"
+        },
+        {
+            "label": "Kawi Nightshade - Dark (italic)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/kawi-nightshade-dark-italic.json"
+        }
+        ]
+    }
+}

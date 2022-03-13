@@ -1,0 +1,961 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Kawi Nightshade - Dark",
+  "type": "dark",
+  "colors": {
+    "foreground": "--kawi-nightshade-10",
+    "focusBorder": "--kawi-blue",
+    "contrastBorder": "--kawi-nightshade-2",
+    "editorCursor.foreground": "--kawi-blue",
+    "editorRuler.foreground": "--kawi-nightshade-6bb",
+    "scrollbar.shadow": "#00000022",
+    "tree.indentGuidesStroke": "--kawi-nightshade-766",
+    "editorLink.activeForeground": "--kawi-nightshade-10",
+    "selection.background": "--kawi-nightshade-10",
+    "progressBar.background": "--kawi-blue",
+    "textLink.foreground": "--kawi-sky-blue",
+    "textLink.activeForeground": "#b2dfff",
+    "editorLineNumber.foreground": "--kawi-nightshade-6",
+    "editorLineNumber.activeForeground": "--kawi-nightshade-7",
+    "editorBracketMatch.border": "--kawi-bluebb",
+    "editorBracketMatch.background": "--kawi-nightshade-4",
+    "editorWhitespace.foreground": "--kawi-nightshade-1040",
+    "editor.background": "--kawi-nightshade-4",
+    "editor.foreground": "--kawi-nightshade-10",
+    "editor.lineHighlightBackground": "--kawi-nightshade-5",
+    "editor.selectionBackground": "--kawi-nightshade-750",
+    "editor.selectionHighlightBackground": "--kawi-nightshade-6",
+    "editor.findMatchBackground": "--kawi-nightshade-6",
+    "editor.findMatchBorder": "--kawi-cyan",
+    "editor.findMatchHighlightBackground": "--kawi-nightshade-6",
+    "editorOverviewRuler.findMatchForeground": "--kawi-cyanbb",
+    "editorOverviewRuler.errorForeground": "--kawi-redcc",
+    "editorOverviewRuler.infoForeground": "--kawi-sky-blue66",
+    "editorOverviewRuler.warningForeground": "--kawi-yellowcc",
+    "editorOverviewRuler.modifiedForeground": "--kawi-blue66",
+    "editorOverviewRuler.addedForeground": "--kawi-green66",
+    "editorOverviewRuler.deletedForeground": "--kawi-light-red66",
+    "editorOverviewRuler.bracketMatchForeground": "--kawi-dark-bluebb",
+    "editorOverviewRuler.border": "--kawi-nightshade-4",
+    "editorHoverWidget.background": "#1b1d2c",
+    "editorHoverWidget.border": "#000000aa",
+    "editorIndentGuide.background": "--kawi-nightshade-6bb",
+    "editorIndentGuide.activeBackground": "--kawi-nightshade-7aa",
+    "editorGroupHeader.tabsBackground": "--kawi-nightshade-3",
+    "editorGroup.border": "--kawi-nightshade-2",
+    "editorGutter.modifiedBackground": "--kawi-blue66",
+    "editorGutter.addedBackground": "--kawi-green66",
+    "editorGutter.deletedBackground": "--kawi-dark-redaa",
+    "tab.activeBorder": "--kawi-blue",
+    "tab.activeModifiedBorder": "--kawi-nightshade-7",
+    "tab.unfocusedActiveBorder": "--kawi-nightshade-7",
+    "tab.activeForeground": "--kawi-nightshade-10",
+    "tab.activeBackground": "--kawi-nightshade-4",
+    "tab.inactiveForeground": "--kawi-nightshade-7",
+    "tab.inactiveBackground": "--kawi-nightshade-3",
+    "tab.unfocusedActiveForeground": "--kawi-nightshade-10",
+    "tab.border": "--kawi-nightshade-2",
+    "statusBar.noFolderBackground": "--kawi-nightshade-4",
+    "statusBar.border": "--kawi-nightshade-2",
+    "statusBar.background": "--kawi-nightshade-3",
+    "statusBar.foreground": "--kawi-nightshade-7",
+    "statusBar.debuggingBackground": "--kawi-teal",
+    "statusBar.debuggingForeground": "--kawi-nightshade-10",
+    "statusBarItem.hoverBackground": "--kawi-nightshade-720",
+    "activityBar.background": "--kawi-nightshade-3",
+    "activityBar.border": "--kawi-nightshade-460",
+    "activityBar.foreground": "--kawi-nightshade-9",
+    "activityBarBadge.background": "--kawi-dark-blue",
+    "activityBarBadge.foreground": "#ffffff",
+    "titleBar.activeBackground": "--kawi-nightshade-3",
+    "titleBar.activeForeground": "--kawi-nightshade-10",
+    "titleBar.inactiveBackground": "--kawi-nightshade-3",
+    "titleBar.inactiveForeground": "--kawi-nightshade-7",
+    "sideBar.background": "--kawi-nightshade-3",
+    "sideBar.foreground": "--kawi-nightshade-7",
+    "sideBar.border": "--kawi-nightshade-2",
+    "titleBar.border": "--kawi-nightshade-2",
+    "sideBarTitle.foreground": "--kawi-nightshade-10",
+    "sideBarSectionHeader.background": "--kawi-nightshade-3",
+    "sideBarSectionHeader.border": "--kawi-nightshade-5",
+    "input.background": "--kawi-nightshade-2",
+    "input.foreground": "--kawi-nightshade-10",
+    "input.placeholderForeground": "--kawi-nightshade-10aa",
+    "input.border": "#00000066",
+    "inputValidation.errorBackground": "#c53b53",
+    "inputValidation.errorForeground": "#ffffff",
+    "inputValidation.errorBorder": "--kawi-dark-red50",
+    "inputValidation.infoBackground": "#446bbb",
+    "inputValidation.infoForeground": "#ffffff",
+    "inputValidation.infoBorder": "--kawi-blue50",
+    "inputValidation.warningBackground": "#ad7c43",
+    "inputValidation.warningForeground": "#ffffff",
+    "inputValidation.warningBorder": "--kawi-yellow50",
+    "dropdown.foreground": "--kawi-nightshade-10",
+    "dropdown.background": "--kawi-nightshade-5",
+    "dropdown.border": "#00000066",
+    "list.hoverForeground": "--kawi-nightshade-10",
+    "list.hoverBackground": "--kawi-nightshade-3",
+    "list.activeSelectionBackground": "#383e5c",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.inactiveSelectionForeground": "--kawi-nightshade-10",
+    "list.inactiveSelectionBackground": "#292e46",
+    "list.focusBackground": "--kawi-nightshade-1",
+    "list.focusForeground": "--kawi-nightshade-10",
+    "list.highlightForeground": "--kawi-cyan",
+    "list.warningForeground": "--kawi-yellowcc",
+    "terminal.foreground": "--kawi-nightshade-10",
+    "terminal.selectionBackground": "--kawi-nightshade-1044",
+    "terminal.ansiWhite": "--kawi-nightshade-10",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiBlue": "--kawi-blue",
+    "terminal.ansiCyan": "--kawi-cyan",
+    "terminal.ansiGreen": "--kawi-green",
+    "terminal.ansiMagenta": "--kawi-pink",
+    "terminal.ansiRed": "--kawi-red",
+    "terminal.ansiYellow": "--kawi-yellow",
+    "terminal.ansiBrightWhite": "--kawi-nightshade-10",
+    "terminal.ansiBrightBlack": "--kawi-nightshade-7",
+    "terminal.ansiBrightBlue": "--kawi-blue",
+    "terminal.ansiBrightCyan": "--kawi-cyan",
+    "terminal.ansiBrightGreen": "--kawi-green",
+    "terminal.ansiBrightMagenta": "--kawi-pink",
+    "terminal.ansiBrightRed": "--kawi-red",
+    "terminal.ansiBrightYellow": "--kawi-yellow",
+    "terminal.border": "--kawi-nightshade-5",
+    "scrollbarSlider.background": "--kawi-nightshade-730",
+    "scrollbarSlider.hoverBackground": "--kawi-nightshade-830",
+    "scrollbarSlider.activeBackground": "--kawi-blue",
+    "minimap.findMatchHighlight": "--kawi-cyancc",
+    "minimap.selectionHighlight": "--kawi-cyan33",
+    "minimapGutter.addedBackground": "--kawi-green66",
+    "minimapGutter.modifiedBackground": "--kawi-blue66",
+    "editorSuggestWidget.background": "--kawi-nightshade-2",
+    "editorSuggestWidget.foreground": "--kawi-nightshade-8",
+    "editorSuggestWidget.highlightForeground": "--kawi-cyan",
+    "editorSuggestWidget.selectedBackground": "--kawi-nightshade-5",
+    "editorSuggestWidget.border": "#00000033",
+    "editorError.foreground": "--kawi-dark-red",
+    "editorWarning.foreground": "--kawi-yellowcc",
+    "editorWidget.background": "--kawi-nightshade-3",
+    "editorWidget.resizeBorder": "--kawi-blue",
+    "editorMarkerNavigation.background": "--kawi-nightshade-1005",
+    "widget.shadow": "#00000033",
+    "panel.border": "#00000033",
+    "panel.background": "--kawi-nightshade-3",
+    "panel.dropBackground": "--kawi-nightshade-10",
+    "panelTitle.inactiveForeground": "--kawi-nightshade-7",
+    "panelTitle.activeForeground": "--kawi-nightshade-10",
+    "panelTitle.activeBorder": "--kawi-blue",
+    "terminalCursor.foreground": "--kawi-teal",
+    "diffEditor.insertedTextBackground": "--kawi-green15",
+    "diffEditor.removedTextBackground": "--kawi-dark-red20",
+    "notifications.background": "--kawi-nightshade-2",
+    "notifications.foreground": "--kawi-nightshade-10",
+    "notificationLink.foreground": "--kawi-blue",
+    "badge.background": "--kawi-dark-blue",
+    "badge.foreground": "#ffffff",
+    "button.background": "--kawi-dark-blue",
+    "button.hoverBackground": "--kawi-sky-bluecc",
+    "extensionButton.prominentBackground": "--kawi-dark-blue",
+    "extensionButton.prominentHoverBackground": "--kawi-sky-bluecc",
+    "peekView.border": "#00000030",
+    "peekViewEditor.background": "--kawi-nightshade-1005",
+    "peekViewTitle.background": "--kawi-nightshade-1005",
+    "peekViewResult.background": "--kawi-nightshade-1005",
+    "peekViewEditorGutter.background": "--kawi-nightshade-1005",
+    "peekViewTitleDescription.foreground": "--kawi-nightshade-1060",
+    "peekViewResult.matchHighlightBackground": "--kawi-nightshade-750",
+    "peekViewEditor.matchHighlightBackground": "--kawi-nightshade-750",
+    "debugToolBar.background": "--kawi-nightshade-3",
+    "pickerGroup.foreground": "--kawi-blue",
+    "gitDecoration.deletedResourceForeground": "--kawi-dark-reddd",
+    "gitDecoration.conflictingResourceForeground": "--kawi-yellowcc",
+    "gitDecoration.modifiedResourceForeground": "--kawi-blueee",
+    "gitDecoration.untrackedResourceForeground": "--kawi-teal",
+    "gitDecoration.ignoredResourceForeground": "#777fabaa",
+    "gitlens.trailingLineForegroundColor": "--kawi-nightshade-7aa",
+    "editorCodeLens.foreground": "--kawi-nightshade-7",
+    "peekViewResult.selectionBackground": "--kawi-nightshade-770",
+    "breadcrumb.background": "--kawi-nightshade-4",
+    "breadcrumb.foreground": "--kawi-nightshade-7",
+    "breadcrumb.focusForeground": "--kawi-nightshade-10",
+    "breadcrumb.activeSelectionForeground": "--kawi-blue",
+    "breadcrumbPicker.background": "--kawi-nightshade-3",
+    "menu.background": "--kawi-nightshade-3",
+    "menu.foreground": "--kawi-nightshade-10",
+    "menu.selectionBackground": "#00000050",
+    "menu.selectionForeground": "--kawi-blue",
+    "menu.selectionBorder": "#00000030",
+    "menu.separatorBackground": "--kawi-nightshade-10",
+    "menubar.selectionBackground": "#00000030",
+    "menubar.selectionForeground": "--kawi-blue",
+    "menubar.selectionBorder": "#00000030",
+    "settings.dropdownForeground": "--kawi-nightshade-10",
+    "settings.dropdownBackground": "--kawi-nightshade-5",
+    "settings.dropdownBorder": "--kawi-nightshade-2",
+    "settings.numberInputForeground": "--kawi-nightshade-10",
+    "settings.numberInputBackground": "--kawi-nightshade-2",
+    "settings.numberInputBorder": "#00000066",
+    "settings.textInputForeground": "--kawi-nightshade-10",
+    "settings.textInputBackground": "--kawi-nightshade-2",
+    "settings.textInputBorder": "#00000066",
+    "settings.headerForeground": "--kawi-blue",
+    "settings.modifiedItemIndicator": "--kawi-blue",
+    "settings.checkboxBackground": "--kawi-nightshade-1",
+    "settings.checkboxForeground": "--kawi-nightshade-10",
+    "settings.checkboxBorder": "#00000066"
+  },
+  "tokenColors": [
+    {
+      "name": "Comment",
+      "scope": ["comment", "punctuation.definition.comment", "string.quoted.docstring"],
+      "settings": {
+        "foreground": "--kawi-indigo"
+      }
+    },
+    {
+      "name": "Variables and Plain Text",
+      "scope": ["variable", "support.variable", "string constant.other.placeholder", "text.html"],
+      "settings": {
+        "foreground": "--kawi-nightshade-10"
+      }
+    },
+    {
+      "name": "DOM Variables",
+      "scope": [
+        "support.variable.dom",
+        "support.constant.math",
+        "support.type.object.module",
+        "support.variable.object.process",
+        "support.constant.json"
+      ],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "Nil",
+      "scope": ["constant.language.undefined", "constant.language.null"],
+      "settings": {
+        "foreground": "--kawi-nightshade-7"
+      }
+    },
+    {
+      "name": "PHP Constants",
+      "scope": ["constant.other.php"],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "Colors",
+      "scope": ["constant.other.color"],
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "foreground": "--kawi-dark-red"
+      }
+    },
+    {
+      "name": "Invalid deprecated",
+      "scope": ["invalid.deprecated"],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "Keyword, Storage",
+      "scope": ["keyword", "storage.type", "storage.modifier", "keyword.other.important"],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "Keyword, Storage",
+      "scope": ["keyword.control", "storage"],
+      "settings": {}
+    },
+    {
+      "name": "Interpolation",
+      "scope": ["punctuation.definition.template-expression", "punctuation.section.embedded"],
+      "settings": {
+        "foreground": "--kawi-cyan"
+      }
+    },
+    {
+      "name": "Spread",
+      "scope": ["keyword.operator.spread", "keyword.operator.rest"],
+      "settings": {
+        "foreground": "--kawi-red",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Operator, Misc",
+      "scope": [
+        "keyword.operator",
+        "keyword.control",
+        "punctuation",
+        "punctuation.definition.string",
+        "punctuation.support.type.property-name",
+        "text.html.vue-html meta.tag",
+        "punctuation.definition.keyword",
+        "punctuation.terminator.rule",
+        "punctuation.definition.entity",
+        "constant.other.color",
+        "meta.tag",
+        "punctuation.definition.tag",
+        "punctuation.separator.inheritance.php",
+        "punctuation.definition.block.tag",
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html",
+        "meta.property-list",
+        "meta.brace.square",
+        "keyword.other.template",
+        "keyword.other.substitution"
+      ],
+      "settings": {
+        "foreground": "--kawi-cyan"
+      }
+    },
+    {
+      "name": "Keyword Control",
+      "scope": ["keyword.control"],
+      "settings": {}
+    },
+    {
+      "name": "Tag",
+      "scope": ["entity.name.tag", "meta.tag", "markup.deleted.git_gutter"],
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "Function, Special Method",
+      "scope": ["entity.name.function", "variable.function", "keyword.other.special-method"],
+      "settings": {
+        "foreground": "--kawi-blue"
+      }
+    },
+    {
+      "name": "Support Function",
+      "scope": ["support.function", "meta.function-call entity.name.function"],
+      "settings": {
+        "foreground": "--kawi-sky-blue"
+      }
+    },
+    {
+      "name": "C-related Block Level Variables",
+      "scope": ["source.cpp meta.block variable.other"],
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "Other Variable, String Link",
+      "scope": ["support.other.variable", "string.other.link"],
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "Constant, Function Argument, Tag Attribute, Embedded",
+      "scope": [
+        "variable.other.constant",
+        "constant.language",
+        "keyword.other.type.php",
+        "storage.type.php",
+        "support.constant",
+        "constant.character",
+        "constant.escape",
+        "keyword.other.unit"
+      ],
+      "settings": {
+        "foreground": "--kawi-light-red"
+      }
+    },
+    {
+      "name": "Number, Boolean",
+      "scope": [
+        "constant.numeric",
+        "constant.language.boolean",
+        "constant.language.json",
+        "constant.language.infinity",
+        "constant.language.nan"
+      ],
+      "settings": {
+        "foreground": "--kawi-orange"
+      }
+    },
+    {
+      "name": "Function Argument",
+      "scope": [
+        "variable.parameter.function.language.special",
+        "variable.parameter",
+        "meta.function.parameter variable"
+      ],
+      "settings": {
+        "foreground": "--kawi-pink"
+      }
+    },
+    {
+      "name": "String, Symbols, Inherited Class, Markup Heading",
+      "scope": [
+        "string",
+        "constant.other.symbol",
+        "constant.other.key",
+        "entity.other.inherited-class",
+        "markup.heading",
+        "markup.inserted.git_gutter",
+        "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+        "meta.attribute-selector"
+      ],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "--kawi-green"
+      }
+    },
+    {
+      "name": "Object",
+      "scope": ["variable.other.object"],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "Object Key",
+      "scope": [
+        "meta.object-literal.key",
+        "string.alias.graphql",
+        "string.unquoted.graphql",
+        "string.unquoted.alias.graphql",
+        "meta.field.declaration.ts variable.object.property",
+        "variable.object.property"
+      ],
+      "settings": {
+        "foreground": "--kawi-teal"
+      }
+    },
+    {
+      "name": "Nested Object Property",
+      "scope": ["meta.object.member", "variable.other.object.property"],
+      "settings": {
+        "foreground": "--kawi-nightshade-8"
+      }
+    },
+    {
+      "name": "Object Property",
+      "scope": [
+        "variable.other.property",
+        "support.variable.property",
+        "support.variable.property.dom"
+      ],
+      "settings": {
+        "foreground": "--kawi-nightshade-8"
+      }
+    },
+    {
+      "name": "Haskell Constants",
+      "scope": ["source.haskell constant.other.haskell"],
+      "settings": {
+        "foreground": "--kawi-light-red"
+      }
+    },
+    {
+      "name": "Haskell Imports",
+      "scope": ["source.haskell meta.import.haskell entity.name.namespace"],
+      "settings": {
+        "foreground": "--kawi-nightshade-10"
+      }
+    },
+    {
+      "name": "Types Fixes",
+      "scope": ["source.haskell storage.type", "source.c storage.type", "source.java storage.type"],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "Lambda Arrow",
+      "scope": ["storage.type.function"],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "Class, Support",
+      "scope": [
+        "entity.name",
+        "support.type",
+        "support.class",
+        "support.orther.namespace.use.php",
+        "meta.use.php",
+        "support.other.namespace.php",
+        "markup.changed.git_gutter",
+        "support.type.sys-types"
+      ],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "Entity types",
+      "scope": ["support.type"],
+      "settings": {
+        "foreground": "--kawi-orange"
+      }
+    },
+    {
+      "name": "CSS Class and Support",
+      "scope": [
+        "source.css support.type.property-name",
+        "source.sass support.type.property-name",
+        "source.scss support.type.property-name",
+        "source.less support.type.property-name",
+        "source.stylus support.type.property-name",
+        "source.postcss support.type.property-name",
+        "support.type.property-name.css",
+        "support.type.vendored.property-name"
+      ],
+      "settings": {
+        "foreground": "--kawi-blue"
+      }
+    },
+    {
+      "name": "Sub-methods",
+      "scope": ["entity.name.module.js", "variable.import.parameter.js", "variable.other.class.js"],
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "Language methods",
+      "scope": ["variable.language"],
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "entity.name.method.js",
+      "scope": ["entity.name.method.js"],
+      "settings": {
+        "foreground": "--kawi-blue"
+      }
+    },
+    {
+      "name": "meta.method.js",
+      "scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
+      "settings": {
+        "foreground": "--kawi-blue"
+      }
+    },
+    {
+      "name": "Attributes",
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "HTML Attributes",
+      "scope": [
+        "text.html.basic entity.other.attribute-name.html",
+        "text.html.basic entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "HTML Doctype",
+      "scope": [
+        "meta.tag.metadata.doctype entity.name.tag",
+        "meta.tag.metadata.doctype entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "CSS Classes",
+      "scope": ["entity.other.attribute-name.class"],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "CSS ID's",
+      "scope": ["source.sass keyword.control"],
+      "settings": {
+        "foreground": "--kawi-blue"
+      }
+    },
+    {
+      "name": "CSS psuedo selectors",
+      "scope": [
+        "entity.other.attribute-name.pseudo-class",
+        "entity.other.attribute-name.pseudo-element"
+      ],
+      "settings": {
+        "foreground": "--kawi-teal"
+      }
+    },
+    {
+      "name": "CSS Property value",
+      "scope": ["support.constant.property-value"],
+      "settings": {
+        "foreground": "--kawi-pink"
+      }
+    },
+    {
+      "name": "Inserted",
+      "scope": ["markup.inserted"],
+      "settings": {
+        "foreground": "--kawi-green"
+      }
+    },
+    {
+      "name": "Deleted",
+      "scope": ["markup.deleted"],
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "Changed",
+      "scope": ["markup.changed"],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "Regular Expressions",
+      "scope": ["string.regexp"],
+      "settings": {
+        "foreground": "--kawi-bright-cyan"
+      }
+    },
+    {
+      "name": "Regular Expressions - Punctuation",
+      "scope": ["punctuation.definition.group"],
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "Regular Expressions - Character Class",
+      "scope": ["constant.other.character-class.regexp", "keyword.control.anchor.regexp"],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "Regular Expressions - Character Class Set",
+      "scope": ["constant.other.character-class.set.regexp"],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "Regular Expressions - Quantifier",
+      "scope": ["keyword.operator.quantifier.regexp"],
+      "settings": {
+        "foreground": "--kawi-pink"
+      }
+    },
+    {
+      "name": "Escape Characters",
+      "scope": ["constant.character.escape"],
+      "settings": {
+        "foreground": "--kawi-cyan"
+      }
+    },
+    {
+      "name": "URL",
+      "scope": ["*url*", "*link*", "*uri*"],
+      "settings": {
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "name": "Decorators",
+      "scope": [
+        "tag.decorator.js entity.name.tag.js",
+        "tag.decorator.js punctuation.definition.tag.js"
+      ],
+      "settings": {
+        "foreground": "--kawi-blue"
+      }
+    },
+    {
+      "name": "CSS Units",
+      "scope": ["keyword.other.unit"],
+      "settings": {
+        "foreground": "--kawi-orange"
+      }
+    },
+    {
+      "name": "ES7 Bind Operator",
+      "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "JSON Key - Level 0",
+      "scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
+      "settings": {
+        "foreground": "--kawi-blue"
+      }
+    },
+    {
+      "name": "JSON Key - Level 1",
+      "scope": [
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "--kawi-sky-blue"
+      }
+    },
+    {
+      "name": "JSON Key - Level 2",
+      "scope": [
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "JSON Key - Level 3",
+      "scope": [
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "--kawi-pink"
+      }
+    },
+    {
+      "name": "JSON Key - Level 4",
+      "scope": [
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "JSON Key - Level 5",
+      "scope": [
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "--kawi-teal"
+      }
+    },
+    {
+      "name": "JSON Key - Level 6",
+      "scope": [
+        "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "--kawi-blue"
+      }
+    },
+    {
+      "name": "Plain Punctuation",
+      "scope": ["punctuation.definition.list_item.markdown"],
+      "settings": {
+        "foreground": "--kawi-nightshade-7"
+      }
+    },
+    {
+      "name": "Block Punctuation",
+      "scope": [
+        "meta.block",
+        "meta.brace",
+        "punctuation.definition.block",
+        "punctuation.definition.parameters",
+        "punctuation.section.function"
+      ],
+      "settings": {
+        "foreground": "--kawi-nightshade-9"
+      }
+    },
+    {
+      "name": "Markdown - Plain",
+      "scope": ["meta.jsx.children", "meta.embedded.block"],
+      "settings": {
+        "foreground": "--kawi-nightshade-9"
+      }
+    },
+    {
+      "name": "Markdown - Markup Raw Inline",
+      "scope": ["text.html.markdown markup.inline.raw.markdown"],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "Markdown - Markup Raw Inline Punctuation",
+      "scope": [
+        "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
+      ],
+      "settings": {
+        "foreground": "--kawi-cyan"
+      }
+    },
+    {
+      "name": "Markdown - Heading punctuation",
+      "scope": [
+        "markdown.heading",
+        "markup.heading | markup.heading entity.name",
+        "markup.heading.markdown punctuation.definition.heading.markdown"
+      ],
+      "settings": {
+        "foreground": "--kawi-cyan"
+      }
+    },
+    {
+      "name": "Markup - Italic",
+      "scope": ["markup.italic"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "Markup - Bold",
+      "scope": ["markup.bold", "markup.bold string"],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "Markup - Bold-Italic",
+      "scope": [
+        "markup.bold markup.italic",
+        "markup.italic markup.bold",
+        "markup.quote markup.bold",
+        "markup.bold markup.italic string",
+        "markup.italic markup.bold string",
+        "markup.quote markup.bold string"
+      ],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "name": "Markup - Underline",
+      "scope": ["markup.underline"],
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "--kawi-orange"
+      }
+    },
+    {
+      "name": "Markdown - Blockquote",
+      "scope": ["markup.quote punctuation.definition.blockquote.markdown"],
+      "settings": {
+        "foreground": "--kawi-cyan"
+      }
+    },
+    {
+      "name": "Markup - Quote",
+      "scope": ["markup.quote"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Markdown - Link",
+      "scope": ["string.other.link.title.markdown"],
+      "settings": {
+        "foreground": "--kawi-blue"
+      }
+    },
+    {
+      "name": "Markdown - Link Description",
+      "scope": ["string.other.link.description.title.markdown"],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "Markdown - Link Anchor",
+      "scope": ["constant.other.reference.link.markdown"],
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "name": "Markup - Raw Block",
+      "scope": ["markup.raw.block"],
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    },
+    {
+      "name": "Markdown - Fenced Bode Block Variable",
+      "scope": ["markup.fenced_code.block.markdown", "markup.inline.raw.string.markdown"],
+      "settings": {
+        "foreground": "--kawi-cyan"
+      }
+    },
+    {
+      "name": "Markdown - Fenced Language",
+      "scope": ["variable.language.fenced.markdown"],
+      "settings": {
+        "foreground": "--kawi-cyan"
+      }
+    },
+    {
+      "name": "Markdown - Separator",
+      "scope": ["meta.separator"],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "--kawi-cyan"
+      }
+    },
+    {
+      "name": "Markup - Table",
+      "scope": ["markup.table"],
+      "settings": {
+        "foreground": "--kawi-nightshade-7"
+      }
+    },
+    {
+      "scope": "token.info-token",
+      "settings": {
+        "foreground": "--kawi-sky-blue"
+      }
+    },
+    {
+      "scope": "token.warn-token",
+      "settings": {
+        "foreground": "--kawi-yellow"
+      }
+    },
+    {
+      "scope": "token.error-token",
+      "settings": {
+        "foreground": "--kawi-red"
+      }
+    },
+    {
+      "scope": "token.debug-token",
+      "settings": {
+        "foreground": "--kawi-purple"
+      }
+    }
+  ]
+}
