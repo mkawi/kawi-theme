@@ -1,6 +1,6 @@
 # Kawi Theme
 
-<img src="https://github.com/mkawi/kawi-theme/raw/master/images/preview.png" alt="Preview">
+<img src="https://github.com/mkawi/kawi-theme/raw/main/images/preview.png" alt="Preview">
 
 Currently only available on Visual Studio Code.
 
