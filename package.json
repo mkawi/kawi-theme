@@ -35,7 +35,7 @@
         "color": "#111e39",
         "theme": "dark"
     },
-    "icon": "./images/icon.png",
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [
         {
