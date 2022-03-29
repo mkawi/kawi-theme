@@ -2,7 +2,7 @@
     "name": "kawi",
     "displayName": "Kawi Theme",
     "description": "This is a dark VS Code theme with a Nightshade background and saturated bubblegum colours.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "kawi",
     "license": "SEE LICENSE IN LICENSE.md",
     "homepage": "https://github.com/mkawi/kawi-theme/blob/main/README.md",
